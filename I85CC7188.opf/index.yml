@@ -1,0 +1,9 @@
+id: 9f1fc2372c09422daaea0b99830efeb2
+annotation_type: index
+revision: '00001'
+annotations:
+  4c25987a916f49ed93f88c910659a26d:
+    base: f11BB.txt
+    span:
+      start: 0
+      end: 15131
